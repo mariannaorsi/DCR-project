@@ -1,0 +1,221 @@
+[marianna@localhost Documenti]$ find root
+root
+root/DCRB
+root/DCRB/pythonexample1.py
+root/DCRB/Retrival small example.html
+root/DCRB/Universe
+root/DCRB/Universe/Bootes I
+root/DCRB/Universe/Bootes I/Bootes I - Wikipedia.html
+root/DCRB/Universe/Ursa Minor Dwarf
+root/DCRB/Universe/Ursa Minor Dwarf/Ursa Minor Dwarf - Wikipedia.html
+root/DCRB/Universe/IC 10
+root/DCRB/Universe/IC 10/IC 10 - Wikipedia.html
+root/DCRB/Universe/NGC 185
+root/DCRB/Universe/NGC 185/NGC 185 - Wikipedia.html
+root/DCRB/Universe/Leo II (dwarf galaxy)
+root/DCRB/Universe/Leo II (dwarf galaxy)/Leo II (dwarf galaxy) - Wikipedia.html
+root/DCRB/Universe/NGC 6822
+root/DCRB/Universe/NGC 6822/NGC 6822 - Wikipedia.html
+root/DCRB/Universe/Carina Dwarf Spheroidal Galaxy
+root/DCRB/Universe/Carina Dwarf Spheroidal Galaxy/Carina Dwarf Spheroidal Galaxy - Wikipedia.html
+root/DCRB/Universe/Andromeda II
+root/DCRB/Universe/Andromeda II/Andromeda II - Wikipedia.html
+root/DCRB/Universe/Andromeda
+root/DCRB/Universe/Andromeda/Andromeda Galaxy - Wikipedia.html
+root/DCRB/Universe/Canis Major Overdensity
+root/DCRB/Universe/Canis Major Overdensity/Canis Major Overdensity - Wikipedia.html
+root/DCRB/Universe/Sculptor Dwarf Galaxy
+root/DCRB/Universe/Sculptor Dwarf Galaxy/Sculptor Dwarf Galaxy - Wikipedia.html
+root/DCRB/Universe/Leo T
+root/DCRB/Universe/Leo T/Leo T - Wikipedia.html
+root/DCRB/Universe/Phoenix Dwarf
+root/DCRB/Universe/Phoenix Dwarf/Phoenix Dwarf - Wikipedia.html
+root/DCRB/Universe/Sagittarius Dwarf Spheroidal Galaxy
+root/DCRB/Universe/Sagittarius Dwarf Spheroidal Galaxy/Sagittarius Dwarf Spheroidal Galaxy - Wikipedia.html
+root/DCRB/Universe/Sextand Dwarf Spheroidal
+root/DCRB/Universe/Sextand Dwarf Spheroidal/Sextans Dwarf Spheroidal - Wikipedia.html
+root/DCRB/Universe/Ursa Major II Dwarf
+root/DCRB/Universe/Ursa Major II Dwarf/Ursa Major II Dwarf - Wikipedia.html
+root/DCRB/Universe/Ursa Major I Dwarf
+root/DCRB/Universe/Ursa Major I Dwarf/Ursa Major I Dwarf - Wikipedia.html
+root/DCRB/Universe/NGC 2419
+root/DCRB/Universe/NGC 2419/NGC 2419 - Wikipedia.html
+root/DCRB/Universe/Virgo I
+root/DCRB/Universe/Virgo I/Virgo I - Wikipedia.html
+root/DCRB/Universe/Draco Dwarf
+root/DCRB/Universe/Draco Dwarf/Draco Dwarf - Wikipedia.html
+root/DCRB/Universe/Small Magellanic Cloud
+root/DCRB/Universe/Small Magellanic Cloud/Small Magellanic Cloud - Wikipedia.html
+root/DCRB/Universe/Leo I (dwarf galaxy)
+root/DCRB/Universe/Leo I (dwarf galaxy)/Leo I (dwarf galaxy) - Wikipedia.html
+root/DCRB/Universe/Large Magellanic Cloud
+root/DCRB/Universe/Large Magellanic Cloud/Large Magellanic Cloud - Wikipedia.html
+root/DCRB/Universe/Milky Way
+root/DCRB/Universe/Milky Way/Milky Way - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System
+root/DCRB/Universe/Milky Way/Solar System/Solar System - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Neptune
+root/DCRB/Universe/Milky Way/Solar System/Neptune/Neptune - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Uranus
+root/DCRB/Universe/Milky Way/Solar System/Uranus/Uranus - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Irregular Satellites
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Irregular Satellites/Irregular moon - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Irregular Satellites/Prograde
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Irregular Satellites/Prograde/Retrograde and prograde motion - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites/Amalthea
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites/Amalthea/Amalthea (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites/Inner moons of Jupiter.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites/Thebe
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites/Thebe/Thebe (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites/Metis
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites/Metis/Metis (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites/Andrastea
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Inner satellites/Andrastea/Adrastea (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons/Galilean moons - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons/Io
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons/Io/Io (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons/Ganymede
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons/Ganymede/Ganymede (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons/Europa
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons/Europa/Europa (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons/Callisto
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Galilean Moons/Callisto/Callisto (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Jupiter/Regular Satellites/Orbital inclination - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Saturn
+root/DCRB/Universe/Milky Way/Solar System/Saturn/Saturn - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Earth
+root/DCRB/Universe/Milky Way/Solar System/Earth/Moon
+root/DCRB/Universe/Milky Way/Solar System/Earth/Moon/Moon - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Earth/Earth - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Mars
+root/DCRB/Universe/Milky Way/Solar System/Mars/Deimos(moon)
+root/DCRB/Universe/Milky Way/Solar System/Mars/Deimos(moon)/Deimos (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Mars/Mars - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Mars/Phobos (moon)
+root/DCRB/Universe/Milky Way/Solar System/Mars/Phobos (moon)/Phobos (moon) - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Venus
+root/DCRB/Universe/Milky Way/Solar System/Venus/Venus - Wikipedia.html
+root/DCRB/Universe/Milky Way/Solar System/Mercury
+root/DCRB/Universe/Milky Way/Solar System/Mercury/Mercury (planet) - Wikipedia.html
+root/DCRB/Universe/Universe - Wikipedia.html
+root/DCRB/Universe/Fornax Dwarf
+root/DCRB/Universe/Fornax Dwarf/Fornax Dwarf - Wikipedia.html
+root/DCRB/Universe/pythonexample2.py
+root/DCRB/Universe/Retrival complete.html
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[marianna@localhost Documenti]$ tree root
+root
+└── DCRB
+    ├── pythonexample1.py
+    ├── Retrival small example.html
+    └── Universe
+        ├── Andromeda
+        │   └── Andromeda Galaxy - Wikipedia.html
+        ├── Andromeda II
+        │   └── Andromeda II - Wikipedia.html
+        ├── Bootes I
+        │   └── Bootes I - Wikipedia.html
+        ├── Canis Major Overdensity
+        │   └── Canis Major Overdensity - Wikipedia.html
+        ├── Carina Dwarf Spheroidal Galaxy
+        │   └── Carina Dwarf Spheroidal Galaxy - Wikipedia.html
+        ├── Draco Dwarf
+        │   └── Draco Dwarf - Wikipedia.html
+        ├── Fornax Dwarf
+        │   └── Fornax Dwarf - Wikipedia.html
+        ├── IC 10
+        │   └── IC 10 - Wikipedia.html
+        ├── Large Magellanic Cloud
+        │   └── Large Magellanic Cloud - Wikipedia.html
+        ├── Leo I (dwarf galaxy)
+        │   └── Leo I (dwarf galaxy) - Wikipedia.html
+        ├── Leo II (dwarf galaxy)
+        │   └── Leo II (dwarf galaxy) - Wikipedia.html
+        ├── Leo T
+        │   └── Leo T - Wikipedia.html
+        ├── Milky Way
+        │   ├── Milky Way - Wikipedia.html
+        │   └── Solar System
+        │       ├── Earth
+        │       │   ├── Earth - Wikipedia.html
+        │       │   └── Moon
+        │       │       └── Moon - Wikipedia.html
+        │       ├── Jupiter
+        │       │   ├── Irregular Satellites
+        │       │   │   ├── Irregular moon - Wikipedia.html
+        │       │   │   └── Prograde
+        │       │   │       └── Retrograde and prograde motion - Wikipedia.html
+        │       │   └── Regular Satellites
+        │       │       ├── Galilean Moons
+        │       │       │   ├── Callisto
+        │       │       │   │   └── Callisto (moon) - Wikipedia.html
+        │       │       │   ├── Europa
+        │       │       │   │   └── Europa (moon) - Wikipedia.html
+        │       │       │   ├── Galilean moons - Wikipedia.html
+        │       │       │   ├── Ganymede
+        │       │       │   │   └── Ganymede (moon) - Wikipedia.html
+        │       │       │   └── Io
+        │       │       │       └── Io (moon) - Wikipedia.html
+        │       │       ├── Inner satellites
+        │       │       │   ├── Amalthea
+        │       │       │   │   └── Amalthea (moon) - Wikipedia.html
+        │       │       │   ├── Andrastea
+        │       │       │   │   └── Adrastea (moon) - Wikipedia.html
+        │       │       │   ├── Inner moons of Jupiter.html
+        │       │       │   ├── Metis
+        │       │       │   │   └── Metis (moon) - Wikipedia.html
+        │       │       │   └── Thebe
+        │       │       │       └── Thebe (moon) - Wikipedia.html
+        │       │       └── Orbital inclination - Wikipedia.html
+        │       ├── Mars
+        │       │   ├── Deimos(moon)
+        │       │   │   └── Deimos (moon) - Wikipedia.html
+        │       │   ├── Mars - Wikipedia.html
+        │       │   └── Phobos (moon)
+        │       │       └── Phobos (moon) - Wikipedia.html
+        │       ├── Mercury
+        │       │   └── Mercury (planet) - Wikipedia.html
+        │       ├── Neptune
+        │       │   └── Neptune - Wikipedia.html
+        │       ├── Saturn
+        │       │   └── Saturn - Wikipedia.html
+        │       ├── Solar System - Wikipedia.html
+        │       ├── Uranus
+        │       │   └── Uranus - Wikipedia.html
+        │       └── Venus
+        │           └── Venus - Wikipedia.html
+        ├── NGC 185
+        │   └── NGC 185 - Wikipedia.html
+        ├── NGC 2419
+        │   └── NGC 2419 - Wikipedia.html
+        ├── NGC 6822
+        │   └── NGC 6822 - Wikipedia.html
+        ├── Phoenix Dwarf
+        │   └── Phoenix Dwarf - Wikipedia.html
+        ├── pythonexample2.py
+        ├── Retrival complete.html
+        ├── Sagittarius Dwarf Spheroidal Galaxy
+        │   └── Sagittarius Dwarf Spheroidal Galaxy - Wikipedia.html
+        ├── Sculptor Dwarf Galaxy
+        │   └── Sculptor Dwarf Galaxy - Wikipedia.html
+        ├── Sextand Dwarf Spheroidal
+        │   └── Sextans Dwarf Spheroidal - Wikipedia.html
+        ├── Small Magellanic Cloud
+        │   └── Small Magellanic Cloud - Wikipedia.html
+        ├── Universe - Wikipedia.html
+        ├── Ursa Major I Dwarf
+        │   └── Ursa Major I Dwarf - Wikipedia.html
+        ├── Ursa Major II Dwarf
+        │   └── Ursa Major II Dwarf - Wikipedia.html
+        ├── Ursa Minor Dwarf
+        │   └── Ursa Minor Dwarf - Wikipedia.html
+        └── Virgo I
+            └── Virgo I - Wikipedia.html
+
+52 directories, 54 files
+
