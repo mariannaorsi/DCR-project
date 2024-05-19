@@ -1,0 +1,4 @@
+listing of /home
+
+[marianna@localhost ~]$ find /home  | wc -l
+68899
