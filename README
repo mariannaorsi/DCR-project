@@ -1,7 +1,14 @@
 README - Database Project
 
 This document provides an overview of the EDI retrival project. 
-The project involves creating and populating two tables using the same Data Definition Language (DDL), then perform a query that can search terms into the html content file of the tables.
+The project involves creating and populating a table that rapresent a collection of different types of file, then perform a query that can search terms into files names, directory names and into html file.
+
+
+The project was reapeted with two different scenario:
+
+Scenario 1: This table was populated using a small set of files. It was designed to examine a representative sample of data and experiment with query operations on specific data.
+Scanario 2: In contrast to the first table, this one was populated using all files present in the file system of my virtual machine. The main goal of this table is to explore database performance when working with a large amount of data.
+
 
 Attribute of table
 id - primary key autoincremented
@@ -13,18 +20,10 @@ last_modify - date and time of the last modify
 owner - owner of the file
 content - content of the file, if HTML. Null otherwise.
 
-Created Tables
-
-The following two tables were created during the project development:
-
-Table 1: This table was populated using a small set of files. It was designed to examine a representative sample of data and experiment with query operations on specific data.
-
-Table 2: In contrast to the first table, this one was populated using all files present in the file system of my virtual machine. The main goal of this table is to explore database performance when working with a large amount of data.
-
 Cardinality of Tables
 The cardinality of the tables indicated in the project is as follows:
 
-Table 1: file_info  105
-Table 2: file_info2 68895
+Scanario 1: file_info  105
+Scenario 2: file_info2 68895
 
 
