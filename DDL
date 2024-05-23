@@ -8,7 +8,6 @@
         last_modify DATETIME,
          owner VARCHAR(255),
         content MEDIUMTEXT
-       
     )
     """)
     cursor.execute("SET NAMES 'UTF8MB4'")
