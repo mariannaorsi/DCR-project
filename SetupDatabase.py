@@ -39,7 +39,6 @@ def setup_database():
     CREATE INDEX idx_filename ON file_info2(file_name);
     """)
 
-    #cursor.execute("ALTER DATABASE 'schema' CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci;")
 
     conn.commit()
     conn.close()
