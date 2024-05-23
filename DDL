@@ -13,3 +13,7 @@
     """)
     cursor.execute("SET NAMES 'UTF8MB4'")
     cursor.execute("SET CHARACTER SET 'UTF8MB4'")
+
+cursor.execute("""
+    CREATE INDEX idx_filename ON file_info2(file_name);
+    """)
