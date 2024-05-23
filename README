@@ -7,7 +7,7 @@ The project involves creating and populating a table that rapresent a collection
 The project was reapeted with two different scenario:
 
 Scenario 1: This table was populated using a small set of files. It was designed to examine a representative sample of data and experiment with query operations on specific data.
-Scanario 2: In contrast to the first table, this one was populated using all files present in the file system of my virtual machine. The main goal of this table is to explore database performance when working with a large amount of data.
+Scanario 2: In contrast to the first table, this one was populated using all files present in the file system of my virtual machine. The main goal of this table is to explore database performance when working with a larger amount of data.
 
 
 Attribute of table
