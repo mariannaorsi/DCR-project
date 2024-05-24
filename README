@@ -26,4 +26,7 @@ The cardinality of the tables indicated in the project is as follows:
 Scanario 1: file_info  105
 Scenario 2: file_info2 68895
 
+For the retrival query, when the script is running it can be possible to insert from the command line a word or a partial word and the query will find that term into the name of the directory, the name of the file and in the
+content of HTML files. 
+The script will show on screen the result in a table, where it shows: the searched term , where it was found, the path, the name of the file or directory, the type of file and how many times it was found.
 
